@@ -33,6 +33,6 @@ This lab includes two screenshots:
 ## 📂 Folder Structure
 
 /screenshots
-   task-final-summary.png
-   task-success-firefox.png
+   -task-final-summary.png
+   -task-success-firefox.png
 README.md
