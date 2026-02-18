@@ -30,7 +30,7 @@ This lab includes two screenshots:
 - How triggers and actions work together  
 - How to troubleshoot failed tasks    
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
 /screenshots
 
