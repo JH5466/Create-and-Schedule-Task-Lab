@@ -32,11 +32,10 @@ This lab includes two screenshots:
 
 ## 📂 Repository Structure
 
-/screenshots
+- Create-and-Schedule-Task-Lab/
+  - Screenshots/
+    - task-final-summary.png
+    - task-success-firefox.png
+  - README.md
 
-   task-final-summary.png
-   
-   task-success-firefox.png
-   
-README.md
 
