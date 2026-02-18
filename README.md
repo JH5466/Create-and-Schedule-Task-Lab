@@ -31,11 +31,8 @@ This lab includes two screenshots:
 - How to troubleshoot failed tasks    
 
 ## 📂 Repository Structure
-
-- Create-and-Schedule-Task-Lab/
-  - Screenshots/
-    - task-final-summary.png
-    - task-success-firefox.png
-  - README.md
-
-
+Create-and-Schedule-Task-Lab/
+- Screenshots/
+  - task-configuration-summary.png
+  - task-execution-success.png
+- README.md
